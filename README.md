@@ -12,50 +12,6 @@ The project is divided into 3 milestones to help guide you through implementatio
 
 
 
-## Project Deadlines
-
-The deadlines for the project's milestones are on Saturday evenings at midnight EDT (see the schedule below).
-
-| Milestone | Date    |
-| --------- | ------- |
-| #1        | Jul 24  |
-| #2        | Jul 31  |
-| #3        | Aug 07  |
-
-
-All files that you submit (`*.h` and `*.cpp`) should contain the following comment at the top (with your information filled):
-```cpp
-// Name:
-// Seneca Student ID:
-// Seneca email:
-// Date of completion:
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
-```
-
-**Milestone #3** can be submitted after August 7 until August 17, with a penalty of 10% for each day late. After August 17 2022, the submission process is considered closed.
-
-- submissions received on Aug  8 2022 can receive **max 90%**;
-- submissions received on Aug  9 2022 can receive **max 80%**;
-- submissions received on Aug 10 2022 can receive **max 70%**;
-- submissions received on Aug 11 2022 can receive **max 60%**;
-- submissions received on Aug 12 2022 can receive **max 50%**;
-- submissions received on Aug 13 2022 can receive **max 40%**;
-- submissions received on Aug 14 2022 can receive **max 30%**;
-- submissions received on Aug 15 2022 can receive **max 20%**;
-- submissions received on Aug 16 2022 can receive **max 10%**;
-- submissions received on Aug 17 2022 can receive **max  0%**;
-
-
-**Submission of a working copy of this project is mandatory!** Students who don't submit a complete working project, cannot pass this course. A project is considered complete if all three milestones have been submitted before submission closes and the implementation follows the requirements.
-
-All of your source code, including externally linked variables, should be in the `sdds` namespace. Use class declarations in header files wherever appropriate.
-
-
-
-
-
 
 # Milestone 1
 
